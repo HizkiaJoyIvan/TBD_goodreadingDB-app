@@ -1,0 +1,1 @@
+Basic web app CRUD applications using Good Reading Database made in Postgresql includes tables such as Customer, Book, Publisher, City, Address, etc. This app will demonstrate how SQL builder work with basic DML and TCL queries.
